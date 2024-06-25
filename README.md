@@ -36,6 +36,6 @@ I'm a 22-year-old junior developer from Colombia, passionate about technology an
 ### Contact
 
 <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="20" height="20"/>&nbsp;
-<a href="https://www.linkedin.com/in/jhoan-andres-diaz-casta%C3%B1o/" style="text-decoration: none">Jhoan Andres Diaz Castaño </a>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="15" height="15"/>&nbsp;
+[Jhoan Andres Diaz Castaño](https://www.linkedin.com/in/jhoan-andres-diaz-casta%C3%B1o/)
 </div>
