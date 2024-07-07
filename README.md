@@ -37,7 +37,7 @@ I'm a 22-year-old junior developer from Colombia, passionate about technology an
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="15" height="15"/>&nbsp;
-  <a href="https://www.linkedin.com/in/jhoan-andres-diaz-casta%C3%B1o/">Jhoan Andres Diaz Castaño</a>&nbsp;
+  <a href="https://www.linkedin.com/in/jhoan-andres-diaz-casta%C3%B1o/">Jhoan Andres Diaz Castaño</a>&nbsp; <br/>
    <a href="https://jhoan-diaz-portfolio.vercel.app">Portfolio Jhoan Andres Diaz Castaño</a>&nbsp;
   
   
